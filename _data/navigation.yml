@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/Zhou Dong_CV_2023_Updated.pdf
     
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=TbiF3x0AAAAJ&hl=en&oi=ao
     
   - title: "Portfolio"
     url: /portfolio/
     
   - title: "Talks"
-    url: /talks/    
+    url: https://www.youtube.com/watch?v=WLhC-JMoFpU&ab_channel=ZhouDong  
 
 #  - title: "Teaching"
 #    url: /teaching/    
