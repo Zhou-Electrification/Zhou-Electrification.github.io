@@ -24,11 +24,11 @@ author:
   avatar           : "Profile1.JPG"
   name             : "Zhou Dong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Power Electronics Scientist Innovating Efficient Power Conversion and Protection for a Sustainable Future"
+  location         : "North Carolina"
+  employer         : "ABB"
+  uri              : "https://global.abb/group/en"
+  email            : "zdong9@alum.utk.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
