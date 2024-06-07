@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋Hi there, I'm Zhou!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am researcher in power electronics area with ~10 years of experience, and I am hoping to connect with experienced power electronics engineers to talk about advanced technologies.
+
+I studied and developed solid-state circuit protection technolgy during my Ph.D. study. Based on that, I was awarded IEEE PELS P3d talk winner. In addition I applied most advanced machine learning technology in power converter design. Besides, I developed resonant dcdc converters using GaN HEMTs operating with tens Meghetze. 
+
+I’m a motivated, innovative, and cooperative professional. And I’m a project leader and good at project management, comminication, and team work.
 
 A data-driven personal website
 ======
