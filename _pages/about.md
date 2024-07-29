@@ -16,7 +16,7 @@ redirect_from:
 
   <br/>
 
-My main field of expertise:
+🤖 My Main Field of Expertise:
 ======
 Solid-state protection design and application<br/>
 Silicon and wide bandgap (WBG) device application <br/>
@@ -29,8 +29,8 @@ Tools: Altium, Solidworks, MATLAB, LTSPICE, Saber, Office<br/>
 
   <br/>
 
-Updates:
+📰 Recent Updates:
 ======
-2024/07/28
-I'm recently reviewing knowledge related to magnetic design. Hope that I can document something and share what I learnt.
+2024/07/28<br/>
+I'm recently reviewing knowledge related to magnetic designs. Hope to document something and share what I learnt later.
 
