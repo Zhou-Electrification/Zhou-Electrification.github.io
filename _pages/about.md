@@ -15,7 +15,6 @@ redirect_from:
 
 
 
-
 Updates:
 ======
 2024/07/28
@@ -23,13 +22,20 @@ I'm recently reviewing knowledge related to magnetic design. Hope that I can doc
 
 My main expertise:
 -----
-·	Solid-state protection design and application
-·	Silicon and wide bandgap (WBG) device application 
-·	Design automation tool development for power electronics converters
-·	Magnetic components design and modeling using FEM software and PEEC tool
-·	Cryogenic power electronics
-·	Digital control of power electronics converters
-·	Power converter and filter design and troubleshooting skills
-·	Tools: Altium, Solidworks, MATLAB, LTSPICE, Saber, Office
+Solid-state protection design and application
+
+Silicon and wide bandgap (WBG) device application 
+
+Design automation tool development for power electronics converters
+
+Magnetic components design and modeling using FEM software and PEEC tool
+
+Cryogenic power electronics
+
+Digital control of power electronics converters
+
+Power converter and filter design and troubleshooting skills
+
+Tools: Altium, Solidworks, MATLAB, LTSPICE, Saber, Office
 
 
