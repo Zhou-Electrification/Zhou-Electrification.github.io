@@ -20,7 +20,7 @@ Updates:
 2024/07/28
 I'm recently reviewing knowledge related to magnetic design. Hope that I can document something and share what I learnt.
 
-
+  <br/>
 My main field of expertise:
 -----
 Solid-state protection design and application<br/>
