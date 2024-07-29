@@ -13,7 +13,7 @@ redirect_from:
 
 🔋 My research interest is developing high power density or light-weight power converters and solid-state switchings based on wide bandgap devices. In addition, I’m also interested in appling cutting-edge technologies, such as machine learning and advanced cooling technology, to power converter design.  
 
-
+  <br/>
 
 Updates:
 ======
@@ -23,13 +23,13 @@ I'm recently reviewing knowledge related to magnetic design. Hope that I can doc
 
 My main field of expertise:
 -----
-Solid-state protection design and application
-Silicon and wide bandgap (WBG) device application 
-Design automation tool development for power electronics converters
-Magnetic components design and modeling using FEM software and PEEC tool
-Cryogenic power electronics
-Digital control of power electronics converters
-Power converter and filter design and troubleshooting skills
-Tools: Altium, Solidworks, MATLAB, LTSPICE, Saber, Office
+Solid-state protection design and application<br/>
+Silicon and wide bandgap (WBG) device application <br/>
+Design automation tool development for power electronics converters<br/>
+Magnetic components design and modeling using FEM software and PEEC tool<br/>
+Cryogenic power electronics<br/>
+Digital control of power electronics converters<br/>
+Power converter and filter design and troubleshooting skills<br/>
+Tools: Altium, Solidworks, MATLAB, LTSPICE, Saber, Office<br/>
 
 
