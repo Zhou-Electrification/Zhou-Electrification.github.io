@@ -16,16 +16,16 @@ redirect_from:
 
   <br/>
 
-🤖 My Main Field of Expertise:
+✊ My Main Field of Expertise:
 ======
-Solid-state protection design and application<br/>
-Silicon and wide bandgap (WBG) device application <br/>
-Design automation tool development for power electronics converters<br/>
-Magnetic components design and modeling using FEM software and PEEC tool<br/>
-Cryogenic power electronics<br/>
-Digital control of power electronics converters<br/>
-Power converter and filter design and troubleshooting skills<br/>
-Tools: Altium, Solidworks, MATLAB, LTSPICE, Saber, Office<br/>
+⚡ Solid-state protection design and application<br/>
+🔐 Silicon and wide bandgap (WBG) device application <br/>
+🤖 Design automation tool development for power electronics converters<br/>
+🧲 Magnetic components design and modeling using FEM software and PEEC tool<br/>
+🧊 Cryogenic power electronics<br/>
+📐 Digital control of power electronics converters<br/>
+🛠️ Power converter and filter design and troubleshooting skills<br/>
+🧰 Tools: Altium, Solidworks, MATLAB, LTSPICE, Saber, Office<br/>
 
   <br/>
 
