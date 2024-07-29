@@ -1,6 +1,6 @@
 ---
 title: "Design Tool"
-excerpt: "This is a design tool for three phase converter that me and my colleague Ren developed in 2021. #UTK <br/><img src='/images/Design_tool_UI.png'><br/>It is a comprehensive and automated design tool that integrats state-of-the-art design algorithms and models for the three-phase converter design. It was targeting at motor drive applications but can also be used for various other three-phase ac/dc converter applications. The design tool can reduce the design efforts from half-year of manual work to just half a day of automated design. <br/>
+excerpt: "This is a design tool for three phase converter that me and my colleague Ren developed in 2021. #UTK <br/><img src='/images/Design_tool_UI1.png'><br/>It is a comprehensive and automated design tool that integrats state-of-the-art design algorithms and models for the three-phase converter design. It was targeting at motor drive applications but can also be used for various other three-phase ac/dc converter applications. The design tool can reduce the design efforts from half-year of manual work to just half a day of automated design. <br/>
 Additionally, I proposed an ANN-based model to predict leakage inductance and the error is reduced from over 20% using state-of-the-art models to less than 10%. I also have some follow-up work related to the automatic layout design method to optimize the parasitic of the switching cell."
 collection: portfolio
 ---
