@@ -1,5 +1,5 @@
 ---
-title: "Solid-state circuit breaker"
+title: "Solid-state Circuit Breaker"
 excerpt: "This is a solid-state circuit breaker (SSCB) that I developed in 2022. #UTK <br/> <img src='/images/SSPC.png'> <br/> It is also called solid-state power controller in aircraft applications. I designed and developed the liquid-cooled 1 kV 500 A SSPC with an efficiency of 99.51% and a specific power of 112.4 kW/kg, which significantly suppasses the state-of-the-art value of 82 kW/kg. I also performed analysis and proposed solutions for the parallel instability issue of multi-die paralleled SiC power module and addressed the high clamping ratio of high power TVS diodes."
 
 collection: portfolio

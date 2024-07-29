@@ -22,7 +22,7 @@ I'm recently reviewing knowledge related to magnetic design. Hope that I can doc
 
   <br/>
 My main field of expertise:
------
+======
 Solid-state protection design and application<br/>
 Silicon and wide bandgap (WBG) device application <br/>
 Design automation tool development for power electronics converters<br/>
