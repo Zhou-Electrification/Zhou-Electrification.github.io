@@ -5,7 +5,7 @@ Additionally, I proposed an ANN-based model to predict leakage inductance and th
 collection: portfolio
 ---
 
-Related publications:
-●	Zhou Dong and F. Wang, "Automatic Layout Design and Implementation for Three Phase Voltage Source Converters," 2023 IEEE Design Methodologies Conference (DMC), Miami, FL, USA, 2023, pp. 1-6.
-●	Zhou Dong, R. Ren, F. Wang, and R. Chen, "An automated design tool for three-phase motor drives," in 2021 IEEE design methodologies for power electronics conference, Bath, United Kingdom, 2021, pp. 1-6.
-●	Zhou Dong, R. Ren, B. Liu, and F. Wang, "Data-driven Leakage Inductance Modeling of Common Mode Chokes," in 2019 IEEE Energy Conversion Congress and Exposition (ECCE), 2019, pp. 6641-6646.
+Related publications:<br/>
+●	Zhou Dong and F. Wang, "Automatic Layout Design and Implementation for Three Phase Voltage Source Converters," 2023 IEEE Design Methodologies Conference (DMC), Miami, FL, USA, 2023, pp. 1-6.<br/>
+●	Zhou Dong, R. Ren, F. Wang, and R. Chen, "An automated design tool for three-phase motor drives," in 2021 IEEE design methodologies for power electronics conference, Bath, United Kingdom, 2021, pp. 1-6.<br/>
+●	Zhou Dong, R. Ren, B. Liu, and F. Wang, "Data-driven Leakage Inductance Modeling of Common Mode Chokes," in 2019 IEEE Energy Conversion Congress and Exposition (ECCE), 2019, pp. 6641-6646.<br/>

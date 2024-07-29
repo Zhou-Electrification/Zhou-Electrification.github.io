@@ -5,7 +5,7 @@ excerpt: "This is a solid-state circuit breaker (SSCB) that I developed in 2022.
 collection: portfolio
 ---
 
-Related publications:
-●	Zhou Dong, R. Ren, and F. Wang, "Development of High-power Bidirectional DC Solid-state Power Controller for Aircraft Applications," in IEEE J. Emerg. Sel. Topics Power Electron., vol. 10, no. 5, pp. 5498-5508, Oct. 2022.
-●	Zhou Dong, R. Ren, W. Zhang, F. F. Wang, and L. M. Tolbert, "Instability Issue of Paralleled Dies in a SiC Power Module in Solid-State Circuit Breaker Applications," IEEE Trans. Power Electron., vol. 36, no. 10, pp. 11763-11773, Oct. 2021.
-●	Zhou Dong, R. Ren, and F. Wang, "Evaluate I2t Capability of SiC MOSFETs in Solid State Circuit Breaker Applications," in 2020 IEEE Energy Conversion Congress and Exposition (ECCE), 2020, pp. 6043-6048.
+Related publications:<br/>
+●	Zhou Dong, R. Ren, and F. Wang, "Development of High-power Bidirectional DC Solid-state Power Controller for Aircraft Applications," in IEEE J. Emerg. Sel. Topics Power Electron., vol. 10, no. 5, pp. 5498-5508, Oct. 2022.<br/>
+●	Zhou Dong, R. Ren, W. Zhang, F. F. Wang, and L. M. Tolbert, "Instability Issue of Paralleled Dies in a SiC Power Module in Solid-State Circuit Breaker Applications," IEEE Trans. Power Electron., vol. 36, no. 10, pp. 11763-11773, Oct. 2021.<br/>
+●	Zhou Dong, R. Ren, and F. Wang, "Evaluate I2t Capability of SiC MOSFETs in Solid State Circuit Breaker Applications," in 2020 IEEE Energy Conversion Congress and Exposition (ECCE), 2020, pp. 6043-6048.<br/>
