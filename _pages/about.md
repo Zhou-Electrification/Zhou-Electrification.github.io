@@ -32,5 +32,5 @@ redirect_from:
 📰 Recent Updates:
 ======
 2024/07/28<br/>
-I'm recently reviewing knowledge related to magnetic designs. Hope to document something and share what I learnt later.
+Recently, I have been reviewing knowledge related to magnetic designs. Hope to document something and share what I learnt later.
 
