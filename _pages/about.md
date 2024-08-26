@@ -11,7 +11,7 @@ redirect_from:
 
 🏎️ As a motivated, innovative, and cooperative professional, I conduct research and lead projects in my current company. I excel in problem-solving, project management, comminication, and teamwork.
 
-🔋 My research interest is developing high power density or light-weight power converters and solid-state switchings based on wide bandgap devices. In addition, I’m also interested in appling cutting-edge technologies, such as machine learning and advanced cooling technology, to power converter design.  
+🔋 My research interest is developing high power density or light-weight power converters and solid-state switching technologies based on wide bandgap devices. In addition, I’m also interested in applying cutting-edge technologies, such as machine learning and advanced cooling technology, to power converter design.  
 
 
   <br/>
